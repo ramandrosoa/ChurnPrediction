@@ -4,7 +4,6 @@ Companies aim to decrease churn and retain users, thus they employ machine learn
 
 ## Notebook Content
 In the accompanying notebook, you will find detailed steps of the data analysis process, including:
-
     - Univariate and Bivariate Analysis: Exploring individual variables and their relationships to understand the data better
   - Preprocessing: Cleaning and preparing the data for modeling
   - Algorithm Comparison: Evaluating different machine learning algorithms such as Logistic Regression, Decision Tree, Naive Bayes, and Random Forest to determine the best model for churn prediction.
